@@ -5,8 +5,8 @@
 
 ## About me
 
-Soy estudiante de Ingeniería de Telecomunicaciones con orientación a desarrollo web.  
-Me gusta construir interfaces limpias y responsive, y desarrollar servicios backend con **Java** y **Python**.
+I'm telecommunications engineer student specializing in web development.
+I enjoy building clean and responsive interfaces, and developing backend services with **Java** and **Python**.
 
 - 🌐 Frontend: HTML, CSS, JavaScript
 - 🧠 Backend: Java, Python, NodeJS (APIs REST)
