@@ -11,5 +11,5 @@ I enjoy building clean and responsive interfaces, and developing backend service
 - 🌐 Frontend: HTML, CSS, JavaScript
 - 🧠 Backend: Java, Python, NodeJS (APIs REST)
 - 🗄️ Bases de datos: MongoDB, MySQL
-- 📫 Contacto: sergioandre.bustamante@gmail.com | linkedin.com/in/sergioabs
+- 📫 Contact: sergioandre.bustamante@gmail.com | linkedin.com/in/sergioabs
 <br>
